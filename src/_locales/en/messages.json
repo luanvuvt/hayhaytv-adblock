@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Ứng dụng gỡ quảng cáo của HayHayTv",
+    "description": "App Name"
+  },
+  "appDescription": {
+    "message": "Ứng dụng gỡ quảng cáo của HayHayTv.",
+    "description": "The description of the application"
+  }
+}
